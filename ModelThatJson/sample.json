@@ -1,0 +1,112 @@
+{
+  "cid": 750,
+  "entityName": "Software Nuggets",
+  "accounts": {
+    "usa": {
+      "entityStockShares": {
+        "label": "Common Stock, that is outstanding",
+        "desc": "# of shares eac customer holds",
+
+        "units": {
+          "trades": [
+            {
+              "acct": 101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "MSFT",
+              "trantype": "Buy",
+              "qty": 12,
+              "costPerShare": 304.82
+            },
+            {
+              "acct": 101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "MSFT",
+              "trantype": "Buy",
+              "qty": 36,
+              "costPerShare": 149.03
+            },
+            {
+              "acct": 101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "tsla",
+              "trantype": "Buy",
+              "qty": 4,
+              "costPerShare": 755.83
+            }
+          ]
+        }
+      }
+    },
+    "slovakia": {
+      "entityStockShares": {
+        "label": "Common Stock, that is outstanding",
+        "desc": "# of shares eac customer holds",
+
+        "units": {
+          "trades": [
+            {
+              "acct": 101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "MSFT",
+              "trantype": "Buy",
+              "qty": 12,
+              "costPerShare": 304.82
+            },
+            {
+              "acct": 101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "MSFT",
+              "trantype": "Buy",
+              "qty": 36,
+              "costPerShare": 149.03
+            },
+            {
+              "acct": 101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "tsla",
+              "trantype": "Buy",
+              "qty": 4,
+              "costPerShare": 755.83
+            }
+          ]
+        }
+      }
+    },
+    "ecuador": {
+      "entityStockShares": {
+        "label": "Common Stock, that is outstanding",
+        "desc": "# of shares eac customer holds",
+
+        "units": {
+          "trades": [
+            {
+              "acct": 101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "MSFT",
+              "trantype": "Buy",
+              "qty": 12,
+              "costPerShare": 304.82
+            },
+            {
+              "acct": 101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "MSFT",
+              "trantype": "Buy",
+              "qty": 36,
+              "costPerShare": 149.03
+            },
+            {
+              "acct": 101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "tsla",
+              "trantype": "Buy",
+              "qty": 4,
+              "costPerShare": 755.83
+            }
+          ]
+        }
+      }
+    }
+  }
+  
+}

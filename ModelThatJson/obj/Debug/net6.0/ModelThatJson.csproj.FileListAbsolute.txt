@@ -1,0 +1,17 @@
+C:\Users\kirstinmegga.ramos\source\repos\ModelThatJson\ModelThatJson\bin\Debug\net6.0\ModelThatJson.exe
+C:\Users\kirstinmegga.ramos\source\repos\ModelThatJson\ModelThatJson\bin\Debug\net6.0\ModelThatJson.deps.json
+C:\Users\kirstinmegga.ramos\source\repos\ModelThatJson\ModelThatJson\bin\Debug\net6.0\ModelThatJson.runtimeconfig.json
+C:\Users\kirstinmegga.ramos\source\repos\ModelThatJson\ModelThatJson\bin\Debug\net6.0\ModelThatJson.dll
+C:\Users\kirstinmegga.ramos\source\repos\ModelThatJson\ModelThatJson\bin\Debug\net6.0\ModelThatJson.pdb
+C:\Users\kirstinmegga.ramos\source\repos\ModelThatJson\ModelThatJson\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kirstinmegga.ramos\source\repos\ModelThatJson\ModelThatJson\obj\Debug\net6.0\ModelThatJson.csproj.AssemblyReference.cache
+C:\Users\kirstinmegga.ramos\source\repos\ModelThatJson\ModelThatJson\obj\Debug\net6.0\ModelThatJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirstinmegga.ramos\source\repos\ModelThatJson\ModelThatJson\obj\Debug\net6.0\ModelThatJson.AssemblyInfoInputs.cache
+C:\Users\kirstinmegga.ramos\source\repos\ModelThatJson\ModelThatJson\obj\Debug\net6.0\ModelThatJson.AssemblyInfo.cs
+C:\Users\kirstinmegga.ramos\source\repos\ModelThatJson\ModelThatJson\obj\Debug\net6.0\ModelThatJson.csproj.CoreCompileInputs.cache
+C:\Users\kirstinmegga.ramos\source\repos\ModelThatJson\ModelThatJson\obj\Debug\net6.0\ModelThatJson.csproj.CopyComplete
+C:\Users\kirstinmegga.ramos\source\repos\ModelThatJson\ModelThatJson\obj\Debug\net6.0\ModelThatJson.dll
+C:\Users\kirstinmegga.ramos\source\repos\ModelThatJson\ModelThatJson\obj\Debug\net6.0\refint\ModelThatJson.dll
+C:\Users\kirstinmegga.ramos\source\repos\ModelThatJson\ModelThatJson\obj\Debug\net6.0\ModelThatJson.pdb
+C:\Users\kirstinmegga.ramos\source\repos\ModelThatJson\ModelThatJson\obj\Debug\net6.0\ModelThatJson.genruntimeconfig.cache
+C:\Users\kirstinmegga.ramos\source\repos\ModelThatJson\ModelThatJson\obj\Debug\net6.0\ref\ModelThatJson.dll

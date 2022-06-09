@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FUPPgZ1bb/FR7nh9pmJQLV4xn+5BUzDIjzKToUA8BCwOyVuLOJCxjHMgwFbjrDODHi64ovxMQgHJTzlkBUv5Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kirstinmegga.ramos\\source\\repos\\ModelThatJson\\ModelThatJson\\ModelThatJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kirstinmegga.ramos\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
